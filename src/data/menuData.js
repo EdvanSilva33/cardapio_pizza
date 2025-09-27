@@ -21,7 +21,7 @@ export const menuData = {
           pequena: { price: 52.90, description: "4 pedaços" },
           grande: { price: 73.90, description: "8 pedaços" }
         },
-        image: "/img/Margherita.png",
+        image: "/img/margherita.png",
         category: "pizza"
       },
        {
@@ -32,7 +32,7 @@ export const menuData = {
           pequena: { price: 48.90, description: "4 pedaços" },
           grande: { price: 67.90, description: "8 pedaços" }
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/mozzarella.png",
         category: "pizza"
       },
         {
@@ -43,7 +43,7 @@ export const menuData = {
           pequena: { price: 53.90, description: "4 pedaços" },
           grande: { price: 74.90, description: "8 pedaços" }
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/presunto.png",
         category: "pizza"
       },
       {
@@ -345,7 +345,7 @@ export const menuData = {
         name: "Água Mineral 300ml",
         description: "Água mineral sem gás 300ml",
         price: 5.99,
-        image: "/src/assets/agua-Mineral-300ml.png",
+        image: "/img/agua-Mineral.png",
         category: "bebida"
       },
          {
