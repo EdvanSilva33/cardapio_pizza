@@ -182,12 +182,12 @@ function App() {
       />
 
       {/* Footer */}
-      <footer className="bg-green-800 text-white py-8 mt-12">
+      <footer className="bg-black text-white py-8 mt-12">
         <div className="container mx-auto px-4 text-center">
           <h3 className="text-xl font-bold mb-2">LUIGI PIZZAS</h3>
           <p className="text-gray-300 mb-4">Sabor que você pode confiar</p>
           <p> 💳 ACEITAMOS CARTÕES DE CRÉDITO E DÉBITO</p>
-          <div className="flex justify-center my-2">
+          <div className="flex justify-center my-2 bg-white p-2 rounded w-80 mx-auto">
             <img src={cartao} alt="Cartões Aceitos" />
           </div>
 
