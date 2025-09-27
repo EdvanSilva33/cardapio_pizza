@@ -310,19 +310,12 @@ export const menuData = {
       },
        {
         id: 28,
-        name: "Guaraná 2L",
+        name: "GUARANÁ 2L",
         description: "Refrigerante Guaraná Antarctica 2 litros",
         price: 12.99,
         image: "/src/assets/Guarana-Antarctica-2L.png",
         category: "bebida"
-      },  {
-        id: 28,
-        name: "Guaraná 2L",
-        description: "Refrigerante Guaraná Antarctica 2 litros",
-        price: 12.99,
-        image: "/src/assets/Guarana-Antarctica-2L.png",
-        category: "bebida"
-      },
+      },  
         {
         id: 29,
         name: "GUARANÁ ZERO  2L",
