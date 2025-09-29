@@ -45,7 +45,7 @@ export const menuData = {
           pequena: { price: 53.9, description: "4 pedaços" },
           grande: { price: 74.9, description: "8 pedaços" },
         },
-        image: "/img/presunto.png",
+        image: "/img/presunto.png",//presunto
         category: "pizza",
       },
       {
@@ -57,7 +57,7 @@ export const menuData = {
           pequena: { price: 62.9, description: "4 pedaços" },
           grande: { price: 83.9, description: "8 pedaços" },
         },
-        image: "/img/napoletana.png",
+        image: "/img/napoletana.png",//napoletana
         category: "pizza",
       },
       {
