@@ -244,12 +244,12 @@ export const menuData = {
         id: 21,
         name: "TOSCANA PIMENTINHA",
         description:
-          " Molho de tomate, muçarela, mussarela de búfala, tomate italiano, pesto de azeitonas pretas e manjericão",
+          " Molho de tomate, mussarela, mussarela de búfala, tomate italiano, pesto de azeitonas pretas e manjericão",
         sizes: {
           pequena: { price: 61.9, description: "4 pedaços" },
           grande: { price: 82.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Frango_Catupiry.png",
+        image: "/img/toscana.png",
         category: "pizza",
       },
     ],
@@ -301,7 +301,7 @@ export const menuData = {
         name: "Coca-Cola 2L",
         description: "Refrigerante Coca-Cola 2 litros",
         price: 12.99,
-        image: "/src/assets/Coca-Cola2l.png",
+        image: "/img/Coca-Cola2l.png",
         category: "bebida",
       },
       {
@@ -317,7 +317,7 @@ export const menuData = {
         name: "GUARANÁ 2L",
         description: "Refrigerante Guaraná Antarctica 2 litros",
         price: 12.99,
-        image: "/src/assets/Guarana-Antarctica-2L.png",
+        image: "/img/Guarana-Antarctica-2L.png",
         category: "bebida",
       },
       {
@@ -333,7 +333,7 @@ export const menuData = {
         name: "FANTA LARANJA 2L",
         description: "Refrigerante Fanta Laranja 2 litros",
         price: 12.99,
-        image: "/src/assets/Fanta-Laranja-2L.png",
+        image: "/img/Fanta-Laranja-2L.png",
         category: "bebida",
       },
       {
@@ -341,7 +341,7 @@ export const menuData = {
         name: "SPRITE 2L",
         description: "Suco natural de laranja 1 litro",
         price: 12.99,
-        image: "/src/assets/Suco-de-Laranja-1L.png",
+        image: "/img/Suco-de-Laranja-1L.png",
         category: "bebida",
       },
       {
