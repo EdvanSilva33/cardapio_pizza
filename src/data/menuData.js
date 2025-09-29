@@ -57,7 +57,7 @@ export const menuData = {
           pequena: { price: 62.9, description: "4 pedaços" },
           grande: { price: 83.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Napolitana.png",
+        image: "/img/napoletana.png",
         category: "pizza",
       },
       {
@@ -69,7 +69,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-calabresa.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/Frango_Catupiry.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
@@ -81,7 +81,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Portuguesa.png",
+        image: "/img/portuguesa.png",
         category: "pizza",
       },
       {
@@ -93,7 +93,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/calabresa.png",
         category: "pizza",
       },
       {
@@ -105,7 +105,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/parmegiana.png",
         category: "pizza",
       },
       {
@@ -225,7 +225,7 @@ export const menuData = {
           pequena: { price: 62.9, description: "4 pedaços" },
           grande: { price: 83.9, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-bacon-cream.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/abobrinha.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
@@ -237,7 +237,7 @@ export const menuData = {
           pequena: { price: 62.9, description: "4 pedaços" },
           grande: { price: 83.9, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-quatro-queijos.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/caprese.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
@@ -265,7 +265,7 @@ export const menuData = {
           pequena: { price: 52.9, description: "4 pedaços" },
           grande: { price: 82.9, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-chocolate.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/banana-canela.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
@@ -276,7 +276,7 @@ export const menuData = {
           pequena: { price: 61.9, description: "4 pedaços" },
           grande: { price: 82.9, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-brigadeiro.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/CHOCOLATE-MORANGO.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
@@ -287,7 +287,7 @@ export const menuData = {
           pequena: { price: 22.0, description: "4 pedaços" },
           grande: { price: 32.0, description: "8 pedaços" },
         },
-        image: "/src/assets/pizza-banana-canela.jpg", // Não encontrei imagem específica, mantendo placeholder
+        image: "/img/NUTELLA.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
       {
