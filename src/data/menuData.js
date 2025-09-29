@@ -45,7 +45,7 @@ export const menuData = {
           pequena: { price: 53.9, description: "4 pedaços" },
           grande: { price: 74.9, description: "8 pedaços" },
         },
-        image: "/img/presunto.png",//presunto
+        image: "/img/simples-presunto.png",
         category: "pizza",
       },
       {
