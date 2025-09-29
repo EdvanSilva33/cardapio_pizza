@@ -116,7 +116,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/atum-premium.png",
         category: "pizza",
       },
       {
@@ -128,7 +128,7 @@ export const menuData = {
           pequena: { price: 53.9, description: "4 pedaços" },
           grande: { price: 74.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/champion.png",
         category: "pizza",
       },
       {
@@ -140,7 +140,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/vegetaria-especial.png",
         category: "pizza",
       },
       {
@@ -151,7 +151,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/lombo.png",
         category: "pizza",
       },
       {
@@ -162,7 +162,7 @@ export const menuData = {
           pequena: { price: 53.9, description: "4 pedaços" },
           grande: { price: 74.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/pepperoni.png",
         category: "pizza",
       },
       {
@@ -173,7 +173,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/3queijo.png",
         category: "pizza",
       },
       {
@@ -185,7 +185,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/margarita-especial.png",
         category: "pizza",
       },
       {
@@ -197,7 +197,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/capriciosa.png",
         category: "pizza",
       },
       {
@@ -208,7 +208,7 @@ export const menuData = {
           pequena: { price: 56.9, description: "4 pedaços" },
           grande: { price: 77.9, description: "8 pedaços" },
         },
-        image: "/src/assets/Mozzarella.png",
+        image: "/img/tomate-seco-rucula.png",
         category: "pizza",
       },
     ],
@@ -290,24 +290,14 @@ export const menuData = {
         image: "/img/NUTELLA.png", // Não encontrei imagem específica, mantendo placeholder
         category: "pizza",
       },
-      {
-        id: 25,
-        name: "Pizza de Nutella",
-        description: "Calda de nutella e avelãs raladas",
-        sizes: {
-          pequena: { price: 61.9, description: "4 pedaços" },
-          grande: { price: 82.9, description: "8 pedaços" },
-        },
-        image: "/src/assets/pizza-nutella.jpg", // Não encontrei imagem específica, mantendo placeholder
-        category: "pizza",
-      },
+      
     ],
   },
   bebidas: {
     title: "Bebidas",
     items: [
       {
-        id: 26,
+        id: 25,
         name: "Coca-Cola 2L",
         description: "Refrigerante Coca-Cola 2 litros",
         price: 12.99,
@@ -315,7 +305,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 27,
+        id: 26,
         name: "COCA-COLA ZERO 2L",
         description: "Refrigerante Coca-Cola Zero 2 litros",
         price: 12.99,
@@ -323,7 +313,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 28,
+        id: 27,
         name: "GUARANÁ 2L",
         description: "Refrigerante Guaraná Antarctica 2 litros",
         price: 12.99,
@@ -331,7 +321,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 29,
+        id: 28,
         name: "GUARANÁ ZERO  2L",
         description: "Refrigerante Guaraná Zero 2 litros",
         price: 12.99,
@@ -339,7 +329,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 30,
+        id: 29,
         name: "FANTA LARANJA 2L",
         description: "Refrigerante Fanta Laranja 2 litros",
         price: 12.99,
@@ -347,15 +337,15 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 31,
+        id: 30,
         name: "SPRITE 2L",
         description: "Suco natural de laranja 1 litro",
-        price: 12.9,
+        price: 12.99,
         image: "/src/assets/Suco-de-Laranja-1L.png",
         category: "bebida",
       },
       {
-        id: 32,
+        id: 31,
         name: "Água Mineral 300ml",
         description: "Água mineral sem gás 300ml",
         price: 5.99,
@@ -363,7 +353,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 33,
+        id: 32,
         name: "Água Mineral C/ Gás 300ml",
         description: "Água mineral sem gás 300ml",
         price: 5.99,
@@ -371,7 +361,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 34,
+        id: 33,
         name: "SUCO DEL VALLE DE UVA 1L",
         description: "Suco de uva 1 litro",
         price: 5.99,
@@ -379,40 +369,40 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 35,
+        id: 34,
         name: " HEINEKEN PREMIUM LAGER 330ml",
         description: "Cerveja Heineken long neck 330ml",
-        price: 11.9,
+        price: 11.99,
         image: "/img/Heineken-Premium.png",
         category: "bebida",
       },
       {
-        id: 36,
+        id: 35,
         name: "STELLA ARTOIS PREMIUM LAGER 275ml",
         description: "Cerveja Stella Artois long neck 275ml",
-        price: 11.9,
+        price: 11.99,
         image: "/img/Stella.png",
         category: "bebida",
       },
       {
-        id: 37,
+        id: 36,
         name: "BUDWEISER 330ml",
         description: "Cerveja Budweiser long neck 330ml",
-        price: 11.9,
+        price: 11.99,
         image: "/img/budweiser.png",
         category: "bebida",
       },
       ,
       {
-        id: 38,
+        id: 37,
         name: "CORONA EXTRA 330ml",
         description: "Cerveja Corona Extra long neck 330ml",
-        price: 11.9,
+        price: 11.99,
         image: "/img/Corona-Extra.png",
         category: "bebida",
       },
       {
-        id: 39,
+        id: 38,
         name: "TAPADA DA CUNHA",
         description: "Vinho Tapada da Cunha",
         price: 75.0,
@@ -420,7 +410,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 40,
+        id: 39,
         name: "ROMANICA ROSSO ",
         description: "Vinho Champu",
         price: 85.0,
@@ -428,7 +418,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 41,
+        id: 40,
         name: "VINAS DEL TANGO",
         description: "Vinho Vinhas del Tango",
         price: 72.0,
@@ -436,7 +426,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 42,
+        id: 41,
         name: "ESPUMANTE FINCA TERRA NOSTRA",
         description: "Espumante Finca Terra Nostra",
         price: 61.0,
@@ -444,7 +434,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 43,
+        id: 42,
         name: "ESTATE DONOSO",
         description: "Espumante Estate Donoso",
         price: 75.0,
@@ -452,7 +442,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 44,
+        id: 43,
         name: "VINAS DELMAR GRAND RESERVA",
         description: "Espumante Vinas Delmar Grand Reserva",
         price: 65.0,
@@ -460,7 +450,7 @@ export const menuData = {
         category: "bebida",
       },
       {
-        id: 45,
+        id: 44,
         name: "VULCANIC PINOT GRIGIO",
         description: "Itália",
         price: 75.0,

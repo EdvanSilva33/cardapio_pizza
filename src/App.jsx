@@ -107,7 +107,7 @@ function App() {
 
     // Codificar mensagem para URL
     const encodedMessage = encodeURIComponent(message);
-    const whatsappNumber = "556132480808"; // Substitua pelo número real
+    const whatsappNumber = "5561985945661"; // Substitua pelo número real
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`;
 
     // Abrir WhatsApp
